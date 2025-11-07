@@ -3,6 +3,7 @@ This is the portfolio of python code that I learned during BISC 450C
 
 
 ## Using Jupyter Notebooks (1 and 2)
+This code was used to learn how to use Jupyter Notebooks
 
 ```python
 %matplotlib inline
